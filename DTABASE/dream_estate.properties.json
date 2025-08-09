@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c12"
+  },
+  "title": "Modern Downtown Loft",
+  "description": "Stunning modern loft in the heart of downtown with exposed brick walls, high ceilings, and floor-to-ceiling windows. Perfect for urban professionals who want luxury living with city convenience.",
+  "price": 850000,
+  "location": {
+    "address": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  "propertyType": "apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "area": 1200,
+  "images": [
+    "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=500",
+    "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?w=500"
+  ],
+  "features": [
+    "Hardwood Floors",
+    "Stainless Steel Appliances",
+    "Exposed Brick",
+    "High Ceilings",
+    "City Views"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@dreamestate.com",
+    "phone": "(555) 123-4567"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c13"
+  },
+  "title": "Luxury Suburban Villa",
+  "description": "Magnificent 4-bedroom villa in prestigious Oakwood Hills. Features a gourmet kitchen, spacious living areas, and beautifully landscaped gardens. Perfect for families seeking luxury and privacy.",
+  "price": 1250000,
+  "location": {
+    "address": "456 Oak Drive",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90210"
+  },
+  "propertyType": "villa",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "area": 3200,
+  "images": [
+    "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=500",
+    "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=500"
+  ],
+  "features": [
+    "Swimming Pool",
+    "Gourmet Kitchen",
+    "Walk-in Closets",
+    "2-Car Garage",
+    "Landscaped Garden"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "Michael Chen",
+    "email": "michael.chen@dreamestate.com",
+    "phone": "(555) 987-6543"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c14"
+  },
+  "title": "Cozy Downtown Condo",
+  "description": "Charming 1-bedroom condo perfect for first-time buyers or investors. Recently renovated with modern finishes and located within walking distance to restaurants and shopping.",
+  "price": 325000,
+  "location": {
+    "address": "789 Pine Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  },
+  "propertyType": "condo",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 650,
+  "images": [
+    "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500",
+    "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=500"
+  ],
+  "features": [
+    "Recently Renovated",
+    "Modern Appliances",
+    "Parking Space",
+    "Pet Friendly"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@dreamestate.com",
+    "phone": "(555) 456-7890"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c15"
+  },
+  "title": "Spacious Family House",
+  "description": "Beautiful 3-bedroom family home in quiet residential neighborhood. Features large backyard, updated kitchen, and excellent schools nearby. Perfect for growing families.",
+  "price": 675000,
+  "location": {
+    "address": "321 Maple Avenue",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701"
+  },
+  "propertyType": "house",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 2100,
+  "images": [
+    "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=500",
+    "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=500"
+  ],
+  "features": [
+    "Large Backyard",
+    "Updated Kitchen",
+    "Near Schools",
+    "Quiet Neighborhood",
+    "Garage"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "David Wilson",
+    "email": "david.wilson@dreamestate.com",
+    "phone": "(555) 234-5678"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c16"
+  },
+  "title": "Luxury Penthouse Suite",
+  "description": "Exclusive penthouse with panoramic city views, private elevator access, and premium finishes throughout. Features include a rooftop terrace and state-of-the-art amenities.",
+  "price": 2500000,
+  "location": {
+    "address": "567 Skyline Blvd",
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33101"
+  },
+  "propertyType": "apartment",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 2800,
+  "images": [
+    "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=500",
+    "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500"
+  ],
+  "features": [
+    "Panoramic Views",
+    "Private Elevator",
+    "Rooftop Terrace",
+    "Premium Finishes",
+    "Concierge Service"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "Jessica Martinez",
+    "email": "jessica.martinez@dreamestate.com",
+    "phone": "(555) 345-6789"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688908f056c28a2f0dc88c17"
+  },
+  "title": "Charming Townhouse",
+  "description": "Lovely 2-bedroom townhouse with modern updates and private patio. Located in a vibrant neighborhood with easy access to public transportation and local amenities.",
+  "price": 485000,
+  "location": {
+    "address": "890 Elm Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101"
+  },
+  "propertyType": "townhouse",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "area": 1400,
+  "images": [
+    "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=500",
+    "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?w=500"
+  ],
+  "features": [
+    "Private Patio",
+    "Updated Kitchen",
+    "Near Transit",
+    "Modern Finishes"
+  ],
+  "isAvailable": true,
+  "agent": {
+    "name": "Robert Taylor",
+    "email": "robert.taylor@dreamestate.com",
+    "phone": "(555) 567-8901"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T17:46:24.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:46:24.521Z"
+  },
+  "__v": 0
+}]

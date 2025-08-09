@@ -1,0 +1,42 @@
+[{
+  "_id": "user1",
+  "name": "Admin User",
+  "email": "admin@realestate.com",
+  "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+  "bookedVisits": "[]",
+  "favResidenciesID": "[]"
+},
+{
+  "_id": "user2",
+  "name": "Sayli Ghule",
+  "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+  "bookedVisits": "[]",
+  "favResidenciesID": "[]",
+  "email": "saylighule@gmail.com"
+},
+{
+  "_id": "user3",
+  "name": "Mansi Kable",
+  "email": "mansikable925@gmail.com",
+  "image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg",
+  "bookedVisits": "[]",
+  "favResidenciesID": "[]"
+},
+{
+  "_id": "user4",
+  "name": "Poonam Rathod",
+  "email": "poonamrathod@gmail.com",
+  "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg",
+  "bookedVisits": "[]",
+  "favResidenciesID": "[]"
+},
+{
+  "_id": {
+    "$oid": "68960fb21c5e0ce810090fe8"
+  },
+  "name": "Sayli Ghule",
+  "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+  "bookedVisits": "[]",
+  "favResidenciesID": "[]",
+  "email": "saylighule1326@gmail.com"
+}]
